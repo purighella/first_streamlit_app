@@ -4,6 +4,6 @@ streamlit.title('My Parents New Healthy Diner - it is a dosa place in Secunderab
 
                 'Breakfast Menu ' 
                 
-                'Omega 3: Blueberry dosa ' 
-                'Ghee dosa with spinach and onions ' 
+                'Blueberry dosa ' 
+                'Ghee dosa with onions' 
                 'Chutney, Potato masala curry and Sambar')
