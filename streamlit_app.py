@@ -1,6 +1,6 @@
 import streamlit
 
-streamlit.title('My Parents New Healthy Diner - it is a dosa place in Secunderabad')
+streamlit.title('My Parents\' New Healthy Diner - it is a dosa place in Secunderabad')
 
 streamlit.header('Breakfast Menu')
 streamlit.text('Idli Sambar')
