@@ -6,3 +6,5 @@ streamlit.header('🥣Breakfast Menu')
 streamlit.text('🥗 Idli Sambar')
 streamlit.text('🐔 Ghee dosa with onions') 
 streamlit.text('🥑🍞Chutney, Potato masala curry and Sambar')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
